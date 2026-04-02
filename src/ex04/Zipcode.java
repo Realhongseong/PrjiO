@@ -9,7 +9,7 @@ public class Zipcode {
 
 	public static void main(String[] args) {
 		
-		String fname = "D:\\Dev\\Java\\PrjiO\\src\\ex04\\zipcode_20130201(1).csv";
+		String fname = "D:\\Dev\\Java\\PrjiO\\src\\ex04\\zipcode_utf8.csv";
 				
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("검색할 자료(동, 건물명)를 입력해주삼: ");
