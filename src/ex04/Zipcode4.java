@@ -53,7 +53,7 @@ public class Zipcode4 {
 			int seq = Integer.parseInt( li[5].trim());
 			
 			// 3. 부산, 울산, 대구 우편번호
-			//		부산:3605	 cnt1
+			//		부산:3605	 cnt1 
 			//		대구:2782	 cnt2
 			//		울산:820	 cnt3
 			switch(sido) {
